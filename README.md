@@ -8,7 +8,7 @@ Embarking on a career in cybersecurity to switch to an exciting opportunity to p
 ## Objective
 
 My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join the Moblility Field.
-## Skills
+## Projects
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
@@ -19,6 +19,12 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+
+## Certifications
+
+<div>
+<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-AWS%20Certified%20Cloud%20Practitioner-FF9900?&style=for-the-badge&logo=Amazon%20AWS&logoColor=white" />
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
@@ -44,14 +50,5 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 </div>
 
-## Certifications
 
-<div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-AWS%20Certified%20Cloud%20Practitioner-FF9900?&style=for-the-badge&logo=Amazon%20AWS&logoColor=white" />
-
-</div>
-
-## Projects
-- Active Directory Project
   
