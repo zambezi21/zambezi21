@@ -11,14 +11,9 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ## Projects
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+<a href="https://google.com">Detection Lab</a>|
+<a href="https://google.com">Detection Lab</a>|
+
 
 ## Certifications
 
@@ -27,7 +22,6 @@ My journey in computer science has led me to develop a passion for cybersecurity
 <img src="https://img.shields.io/badge/-AWS%20Certified%20Cloud%20Practitioner-FF9900?&style=for-the-badge&logo=Amazon%20AWS&logoColor=white" />
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### Network
 <div>
