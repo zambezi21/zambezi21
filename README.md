@@ -21,30 +21,27 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ## Tools
 
-### Network
-<div>
-<img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-<img src="https://img.shields.io/badge/-Kali%20Linux-FF0000?&style=for-the-badge&logo=Linux&logoColor=white" />
-<img src="https://img.shields.io/badge/-Windows%20Server-FF0000?&style=for-the-badge&logo=Windows&logoColor=white" />
-
-
-</div>
-
 ### Cloud
 <div>
   <img src="https://img.shields.io/badge/-Amazon%20AWS-FF9900?&style=for-the-badge&logo=Amazon%20AWS&logoColor=white" />
   <img src="https://img.shields.io/badge/-Slack-FF0000?&style=for-the-badge&logo=Slack&logoColor=white" />
 
+  ### Endpoint
+<div>
+<img src="https://img.shields.io/badge/-LimaCharlie-FF0000?&style=for-the-badge&logo=Linux&logoColor=white" />
   
+### Network
+<div>
+<img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+<img src="https://img.shields.io/badge/-Kali%20Linux-FF0000?&style=for-the-badge&logo=Linux&logoColor=white" />
+<img src="https://img.shields.io/badge/-Windows%20Server-FF0000?&style=for-the-badge&logo=Windows&logoColor=white" />
+  
+</div>
+
 ### SIEM
 <div>
 <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
 <img src="https://img.shields.io/badge/-SYSMON-FF0000?&style=for-the-badge&logo=Windows&logoColor=white" />
 <img src="https://img.shields.io/badge/-LimaCharlie-FF0000?&style=for-the-badge&logo=Linux&logoColor=white" />
 
-
-
 </div>
-
-
-  
