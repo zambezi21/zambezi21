@@ -33,6 +33,8 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ### Cloud
 <div>
   <img src="https://img.shields.io/badge/-Amazon%20AWS-FF9900?&style=for-the-badge&logo=Amazon%20AWS&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Slack-FF0000?&style=for-the-badge&logo=Slack&logoColor=white" />
+
   
 ### SIEM
 <div>
