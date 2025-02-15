@@ -10,7 +10,7 @@ Embarking on a career in cybersecurity to switch to an exciting opportunity to p
 My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join the Moblility Field.
 ## Projects
 
-<a href="https://github.com/zambezi21/Active-Directory-Project/tree/main">Active Directory Project</a>| <a href="https://github.com/zambezi21/SOAR-EDR-PROJECT/tree/main">SOAR EDR Project</a>|
+<a href="https://github.com/zambezi21/Active-Directory-Project/tree/main">Active Directory Project</a>| <a href="https://github.com/zambezi21/SOAR-EDR-PROJECT/tree/main">SOAR EDR Project</a>| 
 
 
 ## Certifications
