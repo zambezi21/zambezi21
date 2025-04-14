@@ -24,8 +24,8 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ### Cloud
 <div>
   <img src="https://img.shields.io/badge/-Amazon%20AWS-FF9900?&style=for-the-badge&logo=Amazon%20AWS&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Tines-FF0000?&style=for-the-badge&logo=Zapier&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Slack-FF0000?&style=for-the-badge&logo=Slack&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Tines-FF9900?&style=for-the-badge&logo=Zapier&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Slack-FF9900?&style=for-the-badge&logo=Slack&logoColor=white" />
 
   ### Endpoint
 <div>
@@ -34,9 +34,9 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ### Network
 <div>
 <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-<img src="https://img.shields.io/badge/-Kali%20Linux-FF0000?&style=for-the-badge&logo=Linux&logoColor=white" />
-<img src="https://img.shields.io/badge/-Windows%2010-FF0000?&style=for-the-badge&logo=Windows&logoColor=white" />
-<img src="https://img.shields.io/badge/-Windows%20Server-FF0000?&style=for-the-badge&logo=Windows&logoColor=white" />
+<img src="https://img.shields.io/badge/-Kali%20Linux-00C853?&style=for-the-badge&logo=Linux&logoColor=white" />
+<img src="https://img.shields.io/badge/-Windows%2010-00C853?&style=for-the-badge&logo=Windows&logoColor=white" />
+<img src="https://img.shields.io/badge/-Windows%20Server-00C853?&style=for-the-badge&logo=Windows&logoColor=white" />
 <img src="https://img.shields.io/badge/-Cisco%20Packet%20Tracer-00C853?&style=for-the-badge&logo=cisco&logoColor=white" />
 
   
