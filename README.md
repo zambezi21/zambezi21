@@ -37,6 +37,8 @@ My journey in computer science has led me to develop a passion for cybersecurity
 <img src="https://img.shields.io/badge/-Kali%20Linux-FF0000?&style=for-the-badge&logo=Linux&logoColor=white" />
 <img src="https://img.shields.io/badge/-Windows%2010-FF0000?&style=for-the-badge&logo=Windows&logoColor=white" />
 <img src="https://img.shields.io/badge/-Windows%20Server-FF0000?&style=for-the-badge&logo=Windows&logoColor=white" />
+<img src="https://img.shields.io/badge/-Cisco%20Packet%20Tracer-00C853?&style=for-the-badge&logo=cisco&logoColor=white" />
+
   
 </div>
 
