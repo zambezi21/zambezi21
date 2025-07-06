@@ -23,7 +23,9 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ### Cloud
 <div>
-  <img src="https://img.shields.io/badge/-Amazon%20AWS-FF9900?&style=for-the-badge&logo=Amazon%20AWS&logoColor=white" />
+  <a href="https://aws.amazon.com/" target="_blank">
+  <img src="https://img.shields.io/badge/-Amazon%20AWS-FF9900?&style=for-the-badge&logo=Tines&logoColor=white" alt="Tines Badge" />
+</a>
 <a href="https://www.tines.com" target="_blank">
   <img src="https://img.shields.io/badge/-Tines-FF9900?&style=for-the-badge&logo=Tines&logoColor=white" alt="Tines Badge" />
 </a>
