@@ -16,7 +16,9 @@ My journey in computer science has led me to develop a passion for cybersecurity
 <div>
   <a href="https://partners.comptia.org/certifications/security" target="_blank">
   <img src="https://img.shields.io/badge/-Security+-FF0000?&style=for-the-badge&logo=Tines&logoColor=white" alt="Tines Badge" /></a>
-<img src="https://img.shields.io/badge/-AWS%20Certified%20Cloud%20Practitioner-FF9900?&style=for-the-badge&logo=Amazon%20AWS&logoColor=white" />
+  <a href="https://grow.google/ai-essentials/" target="_blank">
+  <img src="https://img.shields.io/badge/-Google%20AI%20Essentials-4285F4?style=for-the-badge&logo=google&logoColor=white" /> 
+
 <img src="https://img.shields.io/badge/-Google%20AI%20Essentials-4285F4?style=for-the-badge&logo=google&logoColor=white" /> 
 
 
