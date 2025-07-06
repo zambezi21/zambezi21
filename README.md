@@ -50,7 +50,8 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ### SIEM
 <div>
 <img src="https://img.shields.io/badge/-Splunk-FF0000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-<img src="https://img.shields.io/badge/-SYSMON-FF0000?&style=for-the-badge&logo=Windows&logoColor=white" />
+<a href="https://learn.microsoft.com/en-us/sysinternals/downloads/sysmon" target="_blank">
+  <img src="https://img.shields.io/badge/-Sysmon-FF0000?&style=for-the-badge&logo=Tines&logoColor=white" alt="Tines Badge" /></a>
 <a href="https://www.limacharlie.com/" target="_blank">
   <img src="https://img.shields.io/badge/-LimaCharlie-FF0000?&style=for-the-badge&logo=Tines&logoColor=white" alt="Tines Badge" /></a>
   <a href="https://www.tines.com" target="_blank">
