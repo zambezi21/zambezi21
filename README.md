@@ -43,17 +43,17 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ### Network
 <div>
 <a href="https://www.wireshark.org/" target="_blank">
-  <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" /></a>
     <a href="https://www.kali.org/" target="_blank">
-  <img src="https://img.shields.io/badge/-Kali%20Linux-00C853?&style=for-the-badge&logo=Linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Kali%20Linux-00C853?&style=for-the-badge&logo=Linux&logoColor=white" /></a>
     <a href="https://en.wikipedia.org/wiki/Windows_10" target="_blank">
-  <img src="https://img.shields.io/badge/-Windows%2010-00C853?&style=for-the-badge&logo=Windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Windows%2010-00C853?&style=for-the-badge&logo=Windows&logoColor=white" /></a>
 <a href="https://en.wikipedia.org/wiki/Windows_Server" target="_blank">
-  <img src="https://img.shields.io/badge/-Windows%20Server-00C853?&style=for-the-badge&logo=Windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Windows%20Server-00C853?&style=for-the-badge&logo=Windows&logoColor=white" /></a>
 <a href="https://www.microsoft.com/en-us/windows/windows-11?r=1" target="_blank">
-  <img src="https://img.shields.io/badge/-Windows%2011-00C853?&style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Windows%2011-00C853?&style=for-the-badge&logo=windows&logoColor=white" /></a>
 <a href="https://www.netacad.com/cisco-packet-tracer" target="_blank">
-  <img src="https://img.shields.io/badge/-Cisco%20Packet%20Tracer-00C853?&style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Cisco%20Packet%20Tracer-00C853?&style=for-the-badge&logo=cisco&logoColor=white" /></a>
 
 
 ### SIEM
