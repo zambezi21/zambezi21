@@ -57,9 +57,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 <a href="https://www.limacharlie.com/" target="_blank">
   <img src="https://img.shields.io/badge/-LimaCharlie-FF0000?&style=for-the-badge&logo=Tines&logoColor=white" alt="Tines Badge" />
 </a>
-https://www.limacharlie.com/
-  
-<a href="https://www.tines.com" target="_blank">
+  <a href="https://www.tines.com" target="_blank">
   <img src="https://img.shields.io/badge/-Tines-FF0000?&style=for-the-badge&logo=Tines&logoColor=white" alt="Tines Badge" />
 </a>
 
