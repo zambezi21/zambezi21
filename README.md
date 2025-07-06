@@ -18,7 +18,6 @@ My journey in computer science has led me to develop a passion for cybersecurity
   <img src="https://img.shields.io/badge/-Security+-FF0000?&style=for-the-badge&logo=Tines&logoColor=white" alt="Tines Badge" /></a><a href="https://aws.amazon.com/certification/certified-cloud-practitioner/" target="_blank">
   <img src="https://img.shields.io/badge/-AWS Certified Cloud Practitioner-4285F4?style=for-the-badge&logo=google&logoColor=white" /> 
 
-<img src="https://img.shields.io/badge/-Google%20AI%20Essentials-4285F4?style=for-the-badge&logo=google&logoColor=white" /> 
 
 
 ## Tools
