@@ -16,7 +16,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-AWS%20Certified%20Cloud%20Practitioner-FF9900?&style=for-the-badge&logo=Amazon%20AWS&logoColor=white" />
-<img src="https://img.shields.io/badge/-Google%20AI%20Essentials-4285F4?style=for-the-badge&logo=google&logoColor=white" />   https://www.tines.com/
+<img src="https://img.shields.io/badge/-Google%20AI%20Essentials-4285F4?style=for-the-badge&logo=google&logoColor=white" /> 
 
 
 ## Tools
@@ -25,7 +25,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 <div>
   <img src="https://img.shields.io/badge/-Amazon%20AWS-FF9900?&style=for-the-badge&logo=Amazon%20AWS&logoColor=white" />
 <a href="https://www.tines.com" target="_blank">
-  <img src="https://img.shields.io/badge/-Tines-FF0000?&style=for-the-badge&logo=Tines&logoColor=white" alt="Tines Badge" />
+  <img src="https://img.shields.io/badge/-Tines-FF9900?&style=for-the-badge&logo=Tines&logoColor=white" alt="Tines Badge" />
 </a>
   <img src="https://img.shields.io/badge/-Slack-FF9900?&style=for-the-badge&logo=Slack&logoColor=white" />
 
