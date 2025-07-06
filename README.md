@@ -27,9 +27,8 @@ My journey in computer science has led me to develop a passion for cybersecurity
 <a href="https://www.tines.com" target="_blank">
   <img src="https://img.shields.io/badge/-Tines-FF9900?&style=for-the-badge&logo=Tines&logoColor=white" alt="Tines Badge" />
 </a>
-  <img src="https://img.shields.io/badge/-Slack-FF9900?&style=for-the-badge&logo=Slack&logoColor=white" />
   <a href="https://www.slack.com" target="_blank">
-  <img src="https://img.shields.io/badge/-Tines-FF9900?&style=for-the-badge&logo=Tines&logoColor=white" alt="Tines Badge" />
+  <img src="https://img.shields.io/badge/-Slack-FF9900?&style=for-the-badge&logo=Tines&logoColor=white" alt="Tines Badge" />
 </a>
 
   ### Endpoint
