@@ -24,11 +24,9 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ### Cloud
 <div>
   <a href="https://aws.amazon.com/" target="_blank">
-  <img src="https://img.shields.io/badge/-Amazon%20AWS-FF9900?&style=for-the-badge&logo=Tines&logoColor=white" alt="Tines Badge" />
-</a>
+  <img src="https://img.shields.io/badge/-Amazon%20AWS-FF9900?&style=for-the-badge&logo=Tines&logoColor=white" alt="Tines Badge" /></a>
 <a href="https://www.tines.com" target="_blank">
-  <img src="https://img.shields.io/badge/-Tines-FF9900?&style=for-the-badge&logo=Tines&logoColor=white" alt="Tines Badge" />
-</a>
+  <img src="https://img.shields.io/badge/-Tines-FF9900?&style=for-the-badge&logo=Tines&logoColor=white" alt="Tines Badge" /></a>
 <a href="https://www.slack.com" target="_blank">
   <img src="https://img.shields.io/badge/-Slack-FF9900?&style=for-the-badge&logo=Tines&logoColor=white" alt="Tines Badge" />
 </a>
@@ -53,7 +51,6 @@ My journey in computer science has led me to develop a passion for cybersecurity
 <div>
 <img src="https://img.shields.io/badge/-Splunk-FF0000?&style=for-the-badge&logo=Splunk&logoColor=white" />
 <img src="https://img.shields.io/badge/-SYSMON-FF0000?&style=for-the-badge&logo=Windows&logoColor=white" />
-<img src="https://img.shields.io/badge/-LimaCharlie-FF0000?&style=for-the-badge&logo=Linux&logoColor=white" />
 <a href="https://www.limacharlie.com/" target="_blank">
   <img src="https://img.shields.io/badge/-LimaCharlie-FF0000?&style=for-the-badge&logo=Tines&logoColor=white" alt="Tines Badge" /></a>
   <a href="https://www.tines.com" target="_blank">
